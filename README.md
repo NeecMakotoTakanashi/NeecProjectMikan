@@ -6,3 +6,4 @@ Uzuka Risako!!!
 Sasaki Katsuki!!!
 QIN Li!!!
 Ishii Takeru!!!
+Tominaga Yusuke!!!
