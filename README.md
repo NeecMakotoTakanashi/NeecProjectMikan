@@ -5,3 +5,4 @@ Hikari Tomori!!!
 Uzuka Risako!!!
 Sasaki Katsuki!!!
 QIN Li!!!
+Ishii Takeru!!!
