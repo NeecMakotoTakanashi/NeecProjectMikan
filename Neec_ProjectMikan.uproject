@@ -2,7 +2,6 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-<<<<<<< Updated upstream
 	"Description": "",
 	"Plugins": [
 		{
@@ -22,7 +21,4 @@
 			"Enabled": true
 		}
 	]
-=======
-	"Description": ""
->>>>>>> Stashed changes
 }
